@@ -28,3 +28,8 @@ I will be able to access the information personally through my file system.
 
 ####### -How many repositories will be used to separate submissions?
 1 repository per submision.
+
+# -Project 2-35482737 
+An API was created which connected to a provided database. The API include various endpoint methods. I had to then ensure the API had sufficient security and authentication by limiting access to the API. Finally publishing and hosting of the API took place.
+Project 2 Repository link: https://github.com/baneleNdaba/CMPG-323-Project-2-35482737
+
