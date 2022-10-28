@@ -33,3 +33,7 @@ I will be able to access the information personally through my file system.
 An API was created which connected to a provided database. The API include various endpoint methods. I had to then ensure the API had sufficient security and authentication by limiting access to the API. Finally publishing and hosting of the API took place.
 Project 2 Repository link: https://github.com/baneleNdaba/CMPG-323-Project-2-35482737
 
+# Project 3 
+Project 3 was focused on Standards and Patterns. Implementation of a Tier 2 repository design pattern ocured on a functional web application. The project initiated with connecting the web app to my hosted database. Then to implement the design pattern, repository classes were created to contain all data access operations for Zones, Categories and devices. I then had to implement the repository classes to their respective controllers. The final step was to host the application on azure and can be accessed through the url: https://project3-35482737.azurewebsites.net.
+Project 3 Repository link:https://github.com/baneleNdaba/CMPG-323-Project-3-35482737
+
