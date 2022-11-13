@@ -41,4 +41,11 @@ Project 3 Repository link:https://github.com/baneleNdaba/CMPG-323-Project-3-3548
 Project 4 was about Robotic Process Automation and Testing. This project was created using UIPath Studio. Excel data was provided to aid with the functionality of the project. A fullautomation process was created to read, write, update and delete data from the web application created in Project 3. The automation read data from the excel file into a UIPath datatable which would be referenced when writing to the different controllers. The process was then published to Uipath orchestrator.
 Project 4 Repository link: https://github.com/baneleNdaba/CMPG-323-Project-4-35482737
 
+# Project 5
 
+Reporting And Monitoring
+
+In this final project Power BI was utilized to create and provide visuals for monitoring and decision making purposes to stakeholders. Data from an excel data source was imported/connected to PowerBI software. Visual presentation of the data was then presented in the form of line graphs, pie chars, bar graphs to simplify and distinguish the focus areas the least most important aspects. Filters are aslo developed to further summarize the visualisation and monitoring to the users discretion.
+
+Link to PowerBI report: https://app.powerbi.com/links/ysLGmfbjh9?ctid=331c86e7-d032-436f-bc53-f2552d031012&pbi_source=linkShare
+Repository Link:https://github.com/baneleNdaba/CMPG-323-Project-5-35482737
